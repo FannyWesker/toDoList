@@ -1,0 +1,35 @@
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.type{
+	border: 1px solid gray;
+	width: 182px;
+}
+
+input{
+	padding-left: 2px;
+	border: none;
+}
+
+button{
+	border: none;
+	background-color: white;
+}
+
+i{
+	color: green;
+}
+
+ul{
+	list-style: none;
+}
+
+li{
+	margin-left: -40px;
+}
+
+a{
+	margin-left: 20px;
+}
